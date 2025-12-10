@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0344-reverse-string) |
 ## Binary Search
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0046-permutations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
