@@ -1,39 +1,42 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-
+        
         Stack<Integer> st = new Stack<>();
         int n = heights.length;
-        int[] nse = new int[n];
-        int[] pse = new int[n];
+        int[] nse = new int[heights.length];
+        int[] pse = new int[heights.length];
 
-        //nse
         nse[n - 1] = n;
         st.push(n - 1);
-        for(int i = n - 2; i >= 0; i--){
-            while(st.size() > 0 && heights[i] <= heights[st.peek()]){
+        //next smaller Element
+        for(int i = n - 2; i>= 0; i--){
+            while(!st.isEmpty() && heights[i] <= heights[st.peek()]){
                 st.pop();
             }
-            if(st.size() == 0){
+
+            if(st.isEmpty()){
                 nse[i] = n;
             }
             else{
                 nse[i] = st.peek();
             }
+
             st.push(i);
         }
-
+        //Stack empty karun ghe
         while(!st.isEmpty()){
             st.pop();
         }
 
-        //pse
+        //prev smaller element
         pse[0] = -1;
         st.push(0);
+
         for(int i = 1; i < n; i++){
-            while(st.size() > 0 && heights[i] <= heights[st.peek()]){
+            while(!st.isEmpty() && heights[i] <= heights[st.peek()]){
                 st.pop();
             }
-            if(st.size() == 0){
+            if(st.isEmpty()){
                 pse[i] = -1;
             }
             else{
@@ -42,12 +45,12 @@ class Solution {
             st.push(i);
         }
 
-        int max = -1;
+        int ans = -1;
         for(int i = 0; i < n; i++){
             int area = heights[i] * (nse[i] - pse[i] - 1);
-            max = Math.max(max , area);
+            ans = Math.max(ans , area);
         }
-        
-        return max;
+
+        return ans;
     }
 }
