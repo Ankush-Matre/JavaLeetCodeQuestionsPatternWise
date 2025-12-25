@@ -22,7 +22,7 @@ class Solution {
 
         int sum = 0;
         while (!st.isEmpty()) {
-            sum += st.pop();
+            sum = sum + st.pop();
         }
         return sum;
     }
