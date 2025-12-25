@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0682-baseball-game) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
