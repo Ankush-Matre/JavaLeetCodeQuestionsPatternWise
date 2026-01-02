@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
