@@ -1,28 +1,23 @@
-import java.util.*;
-
 class Solution {
     public String removeDuplicates(String s, int k) {
-
-        Stack<Map.Entry<Character, Integer>> stack = new Stack<>();
-
-        for (char ch : s.toCharArray()) {
-
-            if (stack.isEmpty() || stack.peek().getKey() != ch) {
-                stack.push(new AbstractMap.SimpleEntry<>(ch, 1));
-            } else {
-                stack.peek().setValue(stack.peek().getValue() + 1);
-
-                if (stack.peek().getValue() == k) {
-                    stack.pop();
+        Stack<Character> charSt=new Stack<>();
+        Stack<Integer> countSt=new Stack<>();
+        
+        for(char ch:s.toCharArray()){
+            if(charSt.size()>0 && charSt.peek()==ch) countSt.push(countSt.peek()+1);
+            else countSt.push(1);
+            
+            charSt.push(ch);
+            if(countSt.peek()==k){
+                for(int i=0;i<k;i++){
+                    charSt.pop();
+                    countSt.pop();
                 }
             }
         }
-
-        StringBuilder sb = new StringBuilder();
-        for (Map.Entry<Character, Integer> p : stack) {
-            sb.append(String.valueOf(p.getKey()).repeat(p.getValue()));
-        }
-
-        return sb.toString();
+        
+        StringBuilder sb=new StringBuilder();
+        while(charSt.size()>0) sb.append(charSt.pop());
+        return sb.reverse().toString();
     }
 }
