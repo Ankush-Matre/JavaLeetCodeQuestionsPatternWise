@@ -1,10 +1,10 @@
 class MyStack {
 
-    //This is Push efficient Solution
-    //where 
-    //Push TC --> O(1)
-    //Pop  TC --> O(n)
-    //Top  TC --> O(n)
+    //Pop effiecient Time Complexity 
+    //Push  ---> O(n)
+    //Pop   ---> O(1)
+    //top   ---> O(1)
+
 
     Queue<Integer> q = new LinkedList<>();
     public MyStack() {
@@ -12,23 +12,24 @@ class MyStack {
     }
     
     public void push(int x) {
-        q.add(x);
+        if(q.size() == 0){
+            q.add(x);
+        }
+        else{
+            q.add(x);
+            for(int i = 1; i <= q.size() - 1; i++){
+                q.add(q.remove());
+            }
+        }
     }
     
     public int pop() {
-        for(int i = 1; i <= q.size() - 1; i++){
-            q.add(q.remove());
-        }
         int ans = q.remove();
         return ans;
     }
     
     public int top() {
-        for(int i = 1; i <= q.size() - 1; i++){
-            q.add(q.remove());
-        }
         int ans = q.peek();
-        q.add(q.remove());
         return ans;
     }
     
