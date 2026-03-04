@@ -1,5 +1,11 @@
 class MyStack {
 
+    //This is Push efficient Solution
+    //where 
+    //Push TC --> O(1)
+    //Pop  TC --> O(n)
+    //Top  TC --> O(n)
+
     Queue<Integer> q = new LinkedList<>();
     public MyStack() {
         
