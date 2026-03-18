@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0933-number-of-recent-calls) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
