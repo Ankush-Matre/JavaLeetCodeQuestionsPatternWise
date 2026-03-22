@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1019-squares-of-a-sorted-array) |
 ## String
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
