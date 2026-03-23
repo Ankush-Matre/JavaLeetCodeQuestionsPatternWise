@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
