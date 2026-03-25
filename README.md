@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
@@ -150,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
