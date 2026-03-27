@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1019-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1019-squares-of-a-sorted-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0567-permutation-in-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0206-reverse-linked-list) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0643-maximum-average-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
