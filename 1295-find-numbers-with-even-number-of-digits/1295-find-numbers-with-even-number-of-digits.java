@@ -3,11 +3,18 @@ class Solution {
         
         int count = 0;
         for(int i = 0; i < nums.length; i++){
-            String ans = "" + nums[i];
-            if(ans.length() % 2 == 0){
+            int n = nums[i];
+            int digitCount = 0;
+            while(n != 0){
+                n = n / 10;
+                digitCount++;
+            }
+
+            if(digitCount % 2 == 0){
                 count++;
             }
         }
+        
 
         return count;
     }
