@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0904-fruit-into-baskets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -218,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0011-container-with-most-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
