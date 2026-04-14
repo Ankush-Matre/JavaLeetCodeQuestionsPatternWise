@@ -1,30 +1,32 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        return atMost(nums, k) - atMost(nums, k - 1);
+        int ans = atMostK(nums , k) - atMostK(nums , k - 1);
+        return ans;
     }
 
-    private int atMost(int[] nums, int k) {
+    public int atMostK(int[] nums , int k){
+        
         int left = 0;
-        int countOdd = 0;
+        int oddCount = 0;
         int result = 0;
 
-        for (int right = 0; right < nums.length; right++) {
-
-            if (nums[right] % 2 != 0) {
-                countOdd++;
+        for(int right = 0; right < nums.length; right++){
+            int num = nums[right];
+            
+            if(num % 2 != 0){
+                oddCount++;
             }
 
-            while (countOdd > k) {
-                if (nums[left] % 2 != 0) {
-                    countOdd--;
+            while(oddCount > k){
+                int leftElement = nums[left];
+
+                if(leftElement % 2 != 0){
+                    oddCount--;
                 }
                 left++;
             }
-
-            // all subarrays ending at right
-            result += (right - left + 1);
+            result = result + (right - left + 1);
         }
-
         return result;
     }
 }
