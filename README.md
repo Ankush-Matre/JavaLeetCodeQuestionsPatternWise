@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0904-fruit-into-baskets) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
+| [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
 ## String Matching
 |  |
 | ------- |
@@ -230,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Trie
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+## Rolling Hash
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+## Hash Function
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
