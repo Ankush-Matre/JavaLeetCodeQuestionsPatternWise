@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
