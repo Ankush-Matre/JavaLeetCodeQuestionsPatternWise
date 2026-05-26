@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0567-permutation-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
