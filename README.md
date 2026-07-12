@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0904-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1019-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1480-running-sum-of-1d-array) |
