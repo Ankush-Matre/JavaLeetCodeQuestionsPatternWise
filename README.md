@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
 | [2845-count-of-interesting-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2845-count-of-interesting-subarrays) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
 |  |
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
