@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-count-of-interesting-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2845-count-of-interesting-subarrays) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1004-max-consecutive-ones-iii) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1260-shift-2d-grid) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
