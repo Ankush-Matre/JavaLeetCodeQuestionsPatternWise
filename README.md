@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+| [2404-most-frequent-even-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2404-most-frequent-even-element) |
 | [2845-count-of-interesting-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2845-count-of-interesting-subarrays) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1248-count-number-of-nice-subarrays) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+| [2404-most-frequent-even-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2404-most-frequent-even-element) |
 | [2845-count-of-interesting-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2845-count-of-interesting-subarrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -347,4 +349,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0169-majority-element) |
+| [2404-most-frequent-even-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
