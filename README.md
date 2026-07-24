@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0303-range-sum-query-immutable) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0424-longest-repeating-character-replacement) |
@@ -336,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
