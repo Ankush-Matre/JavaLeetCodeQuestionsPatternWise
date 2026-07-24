@@ -1,18 +1,24 @@
 class Solution {
     public int majorityElement(int[] nums) {
 
-        HashMap<Integer , Integer> mp = new HashMap<>();
+        //Moore's Voting Algorithm (O(n) Time, O(1) Space)
 
-        for(int num : nums){
+        int count = 0;
+        int candidate = 0;
 
-            mp.put(num , mp.getOrDefault(num , 0) + 1);
+        for(int i = 0; i < nums.length; i++){
 
-            if(mp.get(num) > nums.length / 2){
-                return num;
+            if(count == 0){
+                candidate = nums[i];
+            }
+
+            if(candidate == nums[i]){
+                count++;
+            }
+            else{
+                count--;
             }
         }
-
-        return -1;
-        
+        return candidate;
     }
 }
