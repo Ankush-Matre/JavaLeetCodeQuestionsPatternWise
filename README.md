@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3689-maximum-total-subarray-value-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3783-mirror-distance-of-an-integer) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2261-k-divisible-elements-subarrays) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0389-find-the-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Union-Find
 |  |
 | ------- |
