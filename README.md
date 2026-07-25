@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/1019-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2094-finding-3-digit-even-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ankush-Matre/JavaLeetCodeQuestionsPatternWise/tree/master/3783-mirror-distance-of-an-integer) |
